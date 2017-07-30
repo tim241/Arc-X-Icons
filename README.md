@@ -1,5 +1,7 @@
 ![](https://github.com/LinxGem33/Arc-OSX-Icons/blob/master/icon-preview.png?raw=true)
 
+##
+
 ### Introduction
 
 The icon collection consists of a modern free desktop icon theme pack whose design is based around the use of bold colours and simple geometric shapes to compose icons with pixel perfect rendering. 
