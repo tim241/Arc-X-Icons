@@ -52,9 +52,7 @@ or ~/.icons (create it (in your home folder) if necessary);
 ##
 ### Installation via autotools: 
 
-    git clone https://github.com/LinxGem33/Arc-OSX-Icons --depth 1 && cd Arc-OSX-Icons
-    ./autogen.sh --prefix=/usr
-    sudo make install
+awaiting review
 
 Alternatively you may copy the contents of the `src` folder to `~/.icons` or to `/usr/share/icons` for system-wide use.
 
