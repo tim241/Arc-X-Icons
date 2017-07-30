@@ -12,7 +12,7 @@ The reason behind this icon theme pack is to enable new users to easily install 
 
 ##
 
-![](https://github.com/LinxGem33/Arc-OSX-Icons/blob/master/arcscreen.png?raw=true)
+![](https://github.com/LinxGem33/Arc-OSX-Icons/blob/master/icon-preview.png?raw=true)
 
 ##
 
