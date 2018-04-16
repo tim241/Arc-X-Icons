@@ -10,7 +10,7 @@ The icon collection consists of a modern free desktop icon theme pack whose desi
 
 ### Why use this icon pack?
 
-The reason behind this icon theme pack is to enable new users to easily install the preconfigured arc icon theme to look and feel consistent to how I intended OSX-Arc theme collection to look, having been asked a few times “how do I get my desktop looking like the screen shots?” I decided to remix and preconfigure this icon pack to enable new users to just extract it directly to their icons folder without having to configure the arc icon theme themselves and also it allowed me to pack all the recommended icon themes in one source.
+The reason behind this icon theme pack is to enable new users to easily install the preconfigured arc icon theme to look and feel consistent to how I intended X-Arc theme collection to look, having been asked a few times “how do I get my desktop looking like the screen shots?” I decided to remix and preconfigure this icon pack to enable new users to just extract it directly to their icons folder without having to configure the arc icon theme themselves and also it allowed me to pack all the recommended icon themes in one source.
 
 ##
 
@@ -18,7 +18,7 @@ The reason behind this icon theme pack is to enable new users to easily install 
 
 Distributions can now install the source code packages for easy installation of the icon theme collection the link to the releases page is below.
 
-> [arc-osx-icon-theme](https://github.com/LinxGem33/Arc-OSX-Icons/releases)
+> [arc-x-icon-theme](https://github.com/LinxGem33/Arc-OSX-Icons/releases)
 
 ##
 
@@ -28,8 +28,8 @@ The icon pack consists of four elements each element has been packaged to create
 
 | Included Icons  | Icon feature  |
 |:---|:---|
-|  **Arc-OSX-P**  | light icon theme  |
-|  **Arc-OSX-D**  | dark icon theme    |
+|  **Arc-X-P**  | light icon theme  |
+|  **Arc-X-D**  | dark icon theme    |
 |  **Paper**      | dependency |
 |  **Paper-Mono-Dark** | dependency |
 
@@ -68,11 +68,11 @@ from the same directory as this README resides in, or
 
 ### Bugs
 
-Bugs should be reported [here](https://github.com/LinxGem33/Arc-OSX-Icons/issues) on the Github issues page.
+Bugs should be reported [here](https://github.com/LinxGem33/Arc-X-Icons/issues) on the Github issues page.
 
 ## 
 
-### License & Terms ![](https://github.com/LinxGem33/Arc-OSX-Icons/blob/master/COPYING)
+### License & Terms ![](https://github.com/LinxGem33/Arc-X-Icons/blob/master/COPYING)
 
 [Arc](https://github.com/horst3180/arc-icon-theme) icon theme by [horst3180](https://github.com/horst3180) is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/Arc-OSX-Icons/blob/master/COPYING) for details.
 
