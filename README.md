@@ -1,4 +1,4 @@
-![](https://github.com/LinxGem33/Arc-OSX-Icons/blob/master/icon-preview.png?raw=true)
+![](https://raw.githubusercontent.com/LinxGem33/Neon/master/artwork/new-icon-preview.svg.png)
 
 ##
 
